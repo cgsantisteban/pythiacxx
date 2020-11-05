@@ -1,4 +1,4 @@
-# cxxpythia
+# Pythiacxx
 A basic example using PYTHIA MonteCarlo and Cxx.jl
 
 [PYTHIA](http://home.thep.lu.se/~torbjorn/pythia83html/Welcome.html) is a general-purpose event generator for high-energy particle collisions.
